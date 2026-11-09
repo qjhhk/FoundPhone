@@ -4,10 +4,10 @@
   "title": "钎九剧情",
   "phone": {
     "owner": "九尾",
-    "lockPassword": "0309",
+    "Password": "0309",
     "wallpaper": "Image_1794227711821_805.png"
   },
-  "apps": {
+  "wechat": {
     "wechat": {
       "contacts": [
         {
