@@ -2,7 +2,7 @@
   "scriptVersion": 1,
   "id": "story_qianjiu",
   "title": "钎九剧情",
-  "description": "钎九的聊天记录",
+  "description": "钎九剧情故事",
   "revision": 1,
   "phone": {
     "owner": "九尾",
@@ -32,425 +32,429 @@
   "chats": [
     {
       "id": "chat_aqian",
-      "contactId": "aqian",
+      "app": "wechat",
+      "title": "阿钎",
+      "participants": [
+        "九尾",
+        "aqian"
+      ],
       "messages": [
         {
           "id": "start",
           "time": "2026-05-25 20:09",
-          "sender": "九尾",
-          "text": "钎狗你今天兴致不高啊"
+          "senderId": "九尾",
+          "body": "钎狗你今天兴致不高啊"
         },
         {
           "id": "line1",
           "time": "2026-05-25 20:09",
-          "sender": "阿钎",
-          "text": "性情了有点"
+          "senderId": "aqian",
+          "body": "性情了有点"
         },
         {
           "id": "line2",
           "time": "2026-05-25 20:09",
-          "sender": "九尾",
-          "text": "别多想，早点睡觉"
+          "senderId": "九尾",
+          "body": "别多想，早点睡觉"
         },
         {
           "id": "line3",
           "time": "2026-08-02 11:22",
-          "sender": "阿钎",
-          "text": "睡醒了吗"
+          "senderId": "aqian",
+          "body": "睡醒了吗"
         },
         {
           "id": "line4",
           "time": "2026-08-02 11:22",
-          "sender": "九尾",
-          "text": "早就醒了"
+          "senderId": "九尾",
+          "body": "早就醒了"
         },
         {
           "id": "line5",
           "time": "2026-08-02 11:22",
-          "sender": "阿钎",
-          "text": "快到了"
+          "senderId": "aqian",
+          "body": "快到了"
         },
         {
           "id": "line6",
           "time": "2026-08-02 11:22",
-          "sender": "九尾",
-          "text": "终于到了"
+          "senderId": "九尾",
+          "body": "终于到了"
         },
         {
           "id": "line7",
           "time": "2026-08-02 11:22",
-          "sender": "九尾",
-          "text": "我超威这外面好好看",
-          "type": "image",
-          "img": "img/img-1794228227297f58acbccd1e75acb00a570cfebbd24ab7ce2c0185abcae1bc0a2d205ca541257.jpg"
+          "senderId": "九尾",
+          "kind": "image",
+          "media": "img/img-1794228227297f58acbccd1e75acb00a570cfebbd24ab7ce2c0185abcae1bc0a2d205ca541257.jpg",
+          "body": "我超威这外面好好看"
         },
         {
           "id": "line8",
           "time": "2026-08-02 11:22",
-          "sender": "阿钎",
-          "text": "我要用来发微博"
+          "senderId": "aqian",
+          "body": "我要用来发微博"
         },
         {
           "id": "line9",
           "time": "2026-08-02 11:22",
-          "sender": "九尾",
-          "text": "随你要是被发现你死定了"
+          "senderId": "九尾",
+          "body": "随你要是被发现你死定了"
         },
         {
           "id": "line10",
           "time": "2026-10-06 01:09",
-          "sender": "阿钎",
-          "text": "还没睡？"
+          "senderId": "aqian",
+          "body": "还没睡？"
         },
         {
           "id": "line11",
           "time": "2026-10-06 01:09",
-          "sender": "九尾",
-          "text": "睡不着"
+          "senderId": "九尾",
+          "body": "睡不着"
         },
         {
           "id": "line12",
           "time": "2026-10-06 01:09",
-          "sender": "阿钎",
-          "text": "许鑫蓁我信你"
+          "senderId": "aqian",
+          "body": "许鑫蓁我信你"
         },
         {
           "id": "line13",
           "time": "2026-10-06 01:09",
-          "sender": "九尾",
-          "text": "其实我心里没底"
+          "senderId": "九尾",
+          "body": "其实我心里没底"
         },
         {
           "id": "line14",
           "time": "2026-10-06 01:09",
-          "sender": "九尾",
-          "text": "但气势要有"
+          "senderId": "九尾",
+          "body": "但气势要有"
         },
         {
           "id": "line15",
           "time": "2026-10-06 01:09",
-          "sender": "阿钎",
-          "text": "哈哈哈哈哈"
+          "senderId": "aqian",
+          "body": "哈哈哈哈哈"
         },
         {
           "id": "line16",
           "time": "2026-10-06 01:09",
-          "sender": "阿钎",
-          "text": "我相信你啊我相信你可以打回来"
+          "senderId": "aqian",
+          "body": "我相信你啊我相信你可以打回来"
         },
         {
           "id": "line17",
           "time": "2026-10-06 01:09",
-          "sender": "九尾",
-          "text": "盲目信任"
+          "senderId": "九尾",
+          "body": "盲目信任"
         },
         {
           "id": "line18",
           "time": "2026-10-06 01:09",
-          "sender": "阿钎",
-          "text": "那咋了"
+          "senderId": "aqian",
+          "body": "那咋了"
         },
         {
           "id": "line19",
           "time": "2026-10-06 01:09",
-          "sender": "阿钎",
-          "text": "不要多想早点睡觉"
+          "senderId": "aqian",
+          "body": "不要多想早点睡觉"
         },
         {
           "id": "line20",
           "time": "2026-10-06 01:09",
-          "sender": "九尾",
-          "text": "知道了真啰嗦"
+          "senderId": "九尾",
+          "body": "知道了真啰嗦"
         },
         {
           "id": "line21",
           "time": "2026-10-06 01:09",
-          "sender": "九尾",
-          "text": "睡了睡了"
+          "senderId": "九尾",
+          "body": "睡了睡了"
         },
         {
           "id": "line22",
           "time": "2026-10-06 01:09",
-          "sender": "阿钎",
-          "text": "晚安"
+          "senderId": "aqian",
+          "body": "晚安"
         },
         {
           "id": "line23",
           "time": "2026-10-12 20:27",
-          "sender": "九尾",
-          "text": "恭喜深圳dyg"
+          "senderId": "九尾",
+          "body": "恭喜深圳dyg"
         },
         {
           "id": "line24",
           "time": "2026-10-12 20:27",
-          "sender": "九尾",
-          "text": "最后龙人太帅了呀"
+          "senderId": "九尾",
+          "body": "最后龙人太帅了呀"
         },
         {
           "id": "line25",
           "time": "2026-10-12 20:27",
-          "sender": "阿钎",
-          "text": "多谢夸奖嘿嘿"
+          "senderId": "aqian",
+          "body": "多谢夸奖嘿嘿"
         },
         {
           "id": "line26",
           "time": "2026-10-12 20:27",
-          "sender": "九尾",
-          "text": "今天又性情了"
+          "senderId": "九尾",
+          "body": "今天又性情了"
         },
         {
           "id": "line27",
           "time": "2026-10-12 20:27",
-          "sender": "阿钎",
-          "text": "太不容易了"
+          "senderId": "aqian",
+          "body": "太不容易了"
         },
         {
           "id": "line28",
           "time": "2026-10-12 20:27",
-          "sender": "九尾",
-          "text": "钎狗我们还会赢很多很多场比赛"
+          "senderId": "九尾",
+          "body": "钎狗我们还会赢很多很多场比赛"
         },
         {
           "id": "line29",
           "time": "2026-10-12 20:27",
-          "sender": "九尾",
-          "text": "相信自己"
+          "senderId": "九尾",
+          "body": "相信自己"
         },
         {
           "id": "line30",
           "time": "2026-10-12 20:27",
-          "sender": "阿钎",
-          "text": "好"
+          "senderId": "aqian",
+          "body": "好"
         },
         {
           "id": "line31",
           "time": "2026-10-25 15:23",
-          "sender": "九尾",
-          "text": "够帅的"
+          "senderId": "九尾",
+          "body": "够帅的"
         },
         {
           "id": "line32",
           "time": "2026-10-25 15:23",
-          "sender": "阿钎",
-          "text": "你也不赖"
+          "senderId": "aqian",
+          "body": "你也不赖"
         },
         {
           "id": "line33",
           "time": "2026-10-25 15:23",
-          "sender": "阿钎",
-          "text": "今晚能站一起不"
+          "senderId": "aqian",
+          "body": "今晚能站一起不"
         },
         {
           "id": "line34",
           "time": "2026-10-25 15:23",
-          "sender": "九尾",
-          "text": "当然不行"
+          "senderId": "九尾",
+          "body": "当然不行"
         },
         {
           "id": "line35",
           "time": "2026-10-25 15:23",
-          "sender": "阿钎",
-          "text": "那万一"
+          "senderId": "aqian",
+          "body": "那万一"
         },
         {
           "id": "line36",
           "time": "2026-10-25 15:23",
-          "sender": "九尾",
-          "text": "我不管你想办法"
+          "senderId": "九尾",
+          "body": "我不管你想办法"
         },
         {
           "id": "line37",
           "time": "2026-10-25 15:23",
-          "sender": "阿钎",
-          "text": "好吧好吧好吧"
+          "senderId": "aqian",
+          "body": "好吧好吧好吧"
         },
         {
           "id": "line38",
           "time": "2026-10-25 15:23",
-          "sender": "九尾",
-          "text": "别不开心啦"
+          "senderId": "九尾",
+          "body": "别不开心啦"
         },
         {
           "id": "line39",
           "time": "2026-10-25 15:23",
-          "sender": "九尾",
-          "text": "今晚还能听现场版茉莉雨"
+          "senderId": "九尾",
+          "body": "今晚还能听现场版茉莉雨"
         },
         {
           "id": "line40",
           "time": "2026-10-25 15:23",
-          "sender": "阿钎",
-          "text": "嘿嘿对"
+          "senderId": "aqian",
+          "body": "嘿嘿对"
         },
         {
           "id": "line41",
           "time": "2026-10-25 15:23",
-          "sender": "九尾",
-          "text": "晚上一起吃夜宵"
+          "senderId": "九尾",
+          "body": "晚上一起吃夜宵"
         },
         {
           "id": "line42",
           "time": "2026-10-25 15:23",
-          "sender": "阿钎",
-          "text": "好呀耍起"
+          "senderId": "aqian",
+          "body": "好呀耍起"
         },
         {
           "id": "line43",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "回来了吗"
+          "senderId": "aqian",
+          "body": "回来了吗"
         },
         {
           "id": "line44",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "嗯"
+          "senderId": "九尾",
+          "body": "嗯"
         },
         {
           "id": "line45",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "很棒了"
+          "senderId": "aqian",
+          "body": "很棒了"
         },
         {
           "id": "line46",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "唉都打到这了"
+          "senderId": "九尾",
+          "body": "唉都打到这了"
         },
         {
           "id": "line47",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "就差一步"
+          "senderId": "九尾",
+          "body": "就差一步"
         },
         {
           "id": "line48",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "你已经尽力了"
+          "senderId": "aqian",
+          "body": "你已经尽力了"
         },
         {
           "id": "line49",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "不要怪自己不要总觉得是自己一个人的错"
+          "senderId": "aqian",
+          "body": "不要怪自己不要总觉得是自己一个人的错"
         },
         {
           "id": "line50",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "没有"
+          "senderId": "九尾",
+          "body": "没有"
         },
         {
           "id": "line51",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "遗憾是常态"
+          "senderId": "aqian",
+          "body": "遗憾是常态"
         },
         {
           "id": "line52",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "嗯嗯"
+          "senderId": "九尾",
+          "body": "嗯嗯"
         },
         {
           "id": "line53",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "我超威钎狗我好累啊"
+          "senderId": "九尾",
+          "body": "我超威钎狗我好累啊"
         },
         {
           "id": "line54",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "那早点休息洗洗睡觉"
+          "senderId": "aqian",
+          "body": "那早点休息洗洗睡觉"
         },
         {
           "id": "line55",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "想见面"
+          "senderId": "九尾",
+          "body": "想见面"
         },
         {
           "id": "line56",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "我明天就去找你咋样"
+          "senderId": "aqian",
+          "body": "我明天就去找你咋样"
         },
         {
           "id": "line57",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "我说着玩的"
+          "senderId": "九尾",
+          "body": "我说着玩的"
         },
         {
           "id": "line58",
           "time": "2026-11-07 22:57",
-          "sender": "阿钎",
-          "text": "我也想你"
+          "senderId": "aqian",
+          "body": "我也想你"
         },
         {
           "id": "line59",
           "time": "2026-11-07 22:57",
-          "sender": "九尾",
-          "text": "睡觉睡觉"
+          "senderId": "九尾",
+          "body": "睡觉睡觉"
         },
         {
           "id": "line60",
           "time": "2026-11-08 20:21",
-          "sender": "阿钎",
-          "text": "真让gemini动头发了？"
+          "senderId": "aqian",
+          "body": "真让gemini动头发了？"
         },
         {
           "id": "line61",
           "time": "2026-11-08 20:21",
-          "sender": "九尾",
-          "text": "对啊咋了！"
+          "senderId": "九尾",
+          "body": "对啊咋了！"
         },
         {
           "id": "line62",
           "time": "2026-11-08 20:21",
-          "sender": "阿钎",
-          "text": "嗯没事"
+          "senderId": "aqian",
+          "body": "嗯没事"
         },
         {
           "id": "line63",
           "time": "2026-11-08 20:21",
-          "sender": "九尾",
-          "text": "你几个意思不相信gemini"
+          "senderId": "九尾",
+          "body": "你几个意思不相信gemini"
         },
         {
           "id": "line64",
           "time": "2026-11-08 20:21",
-          "sender": "九尾",
-          "text": "我马上和他说"
+          "senderId": "九尾",
+          "body": "我马上和他说"
         },
         {
           "id": "line65",
           "time": "2026-11-08 20:21",
-          "sender": "阿钎",
-          "text": "没有"
+          "senderId": "aqian",
+          "body": "没有"
         },
         {
           "id": "line66",
           "time": "2026-11-08 20:21",
-          "sender": "阿钎",
-          "text": "想看看你剪完头发的样子"
+          "senderId": "aqian",
+          "body": "想看看你剪完头发的样子"
         },
         {
           "id": "line67",
           "time": "2026-11-08 20:21",
-          "sender": "九尾",
-          "text": "打视频"
+          "senderId": "九尾",
+          "body": "打视频"
         },
         {
           "id": "line68",
           "time": "2026-11-08 20:21",
-          "sender": "九尾",
-          "type": "call",
-          "duration": "01:26:36",
-          "text": "视频通话时长 01:26:36"
+          "senderId": "九尾",
+          "kind": "call",
+          "body": "视频通话时长 01:26:36"
         }
       ]
     }
